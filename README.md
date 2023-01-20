@@ -1,5 +1,5 @@
 # hello, word
- esse é um repositorio do curso em video
+ esse é um repositorio do **curso em video**, disponivrl *gratuitamente*
 
  repositorio do guanabara!
 
